@@ -87,6 +87,7 @@ The site and the workflow above intentionally offer no species choice. For backw
 | `mushroom` | `umber`, `glowcap`, `amethyst` |
 | `turtle` | `pond`, `honey`, `blueberry` |
 | `bat` | `dusk`, `cocoa`, `mist` |
+| `penguin` | `tuxedo`, `ice`, `gentoo` |
 
 Leaving `critter` and `colour` out gives you the automatic egg and language colours. Existing workflows with `critter: surprise`, a named critter, `egg`, or a fixed `colour` continue to work, but the site no longer generates those choices.
 
