@@ -25,6 +25,7 @@ export const HATCHLING_POOL: readonly string[] = Object.freeze([
   "mushroom",
   "turtle",
   "bat",
+  "penguin",
 ]);
 
 /**

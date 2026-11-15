@@ -169,7 +169,8 @@ var HATCHLING_POOL = Object.freeze([
   "frog",
   "mushroom",
   "turtle",
-  "bat"
+  "bat",
+  "penguin"
 ]);
 var LEGACY_SURPRISE_POOL = Object.freeze(["dragon", "axolotl", "jellyfish", "ghost"]);
 function hashLogin(login) {
